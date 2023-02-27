@@ -1,0 +1,4 @@
+add content asset using 'manual steps/uniwersytet_swps_logo_250x125.png' file on org
+1. From Files home, go to Libraries | Asset Library.
+2. Click Upload Asset File. The file selector opens to let you upload a new file or select an existing file to make into an asset.
+3. Once you’ve selected a file, a dialog window displays these fields:
