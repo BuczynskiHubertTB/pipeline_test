@@ -1,0 +1,8 @@
+In setup type "Picklist Value Sets" in Quick Find box and click "Picklist Value Sets" in results below.
+Choose "Case Category" and in Values table click on delete next to field that API Name doesn't contain underscore between words (incorrect API Name example: "Deregistration from the list of students").
+Click on "OK" in pop up window and on the next page don't change radio buttons value and click "Save". 
+Repeat this step until all fields that matches the pattern are not deleted.
+On the top of the page click on "Back to list" and choose "Case Subcategory".
+In Values table click on delete next to field that API Name doesn't contain underscore between words (incorrect API Name example: "Appealing the decision regarding finances").
+Click on "OK" in pop up window and on the next page don't change radio buttons value and click "Save". 
+Repeat this step until all fields that matches the pattern are not deleted.

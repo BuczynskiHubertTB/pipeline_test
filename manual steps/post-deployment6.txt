@@ -1,0 +1,3 @@
+Delete apex classes:
+TB_vu_NewQuestionController
+TB_vu_NewQuestionControllerTest

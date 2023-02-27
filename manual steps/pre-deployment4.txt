@@ -1,0 +1,7 @@
+In setup click on "Object Manager" tab, type "Case" in Quick Find box and click "Case" in results below.
+Choose Fields & Relationships, in Quick Find box type "Category" and click on "Category" next to "TB_Category__c"
+Click on "Edit" and then on "Promote to Global Value Set".
+In Label field write "Case Category" and in Name field write "TB_Case_Category" and click "Promote to Global Value Set".
+Choose Fields & Relationships, in Quick Find box type "Subcategory" and click on "Subcategory" next to "TB_Subcategory__c"
+Click on "Edit" and then on "Promote to Global Value Set".
+In Label field write "Case Subcategory" and in Name field write "TB_Case_Subcategory" and click "Promote to Global Value Set".
