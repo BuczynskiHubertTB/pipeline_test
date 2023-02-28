@@ -10,4 +10,3 @@ branches:
           - Jenkins validation
       enforce_admins: true
       restrictions: null
-      lock_branch: true
