@@ -14,4 +14,10 @@ branches:
         contexts:
           - Jenkins
       enforce_admins: true
-      restrictions: {}
+      restrictions:
+        users:
+          - octocat
+        teams:
+          - justice-league
+        apps:
+          - super-ci
