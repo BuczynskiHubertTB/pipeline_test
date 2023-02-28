@@ -15,9 +15,5 @@ branches:
           - Jenkins
       enforce_admins: true
       restrictions:
-        users:
-          - octocat
-        teams:
-          - justice-league
         apps:
           - super-ci
