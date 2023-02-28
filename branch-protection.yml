@@ -14,6 +14,3 @@ branches:
         contexts:
           - Jenkins
       enforce_admins: true
-      restrictions:
-        apps:
-          - super-ci
