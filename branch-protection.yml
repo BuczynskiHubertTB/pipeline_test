@@ -14,3 +14,4 @@ branches:
         contexts:
           - Jenkins
       enforce_admins: true
+      restrictions: null
