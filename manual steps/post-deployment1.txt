@@ -1,0 +1,8 @@
+Job_Offer_Application
+Change related list on the following page layouts: 
+Account.HEDA Organization Layout - created date, contact, job offer
+Account.HEDA Household Layout - created date, contact, job offer
+Contact.HEDA Contact Layout - created date, job offer id
+
+
+Assign permission set to users

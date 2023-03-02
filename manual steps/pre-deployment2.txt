@@ -1,0 +1,2 @@
+enhanced email = disable
+email deliverability = all emails

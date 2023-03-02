@@ -1,0 +1,1 @@
+create email service using DT_EmailHadler class + redirection in gmail for each SF instance

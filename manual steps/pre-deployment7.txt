@@ -1,0 +1,3 @@
+In setup click on "Object Manager" tab, type "Case" in Quick Find box and click "Case" in results below.
+Choose "Validation Rules" and find row with rule name "DT_Case_Closed".
+In this row click on button with triangle on the right side and click delete.

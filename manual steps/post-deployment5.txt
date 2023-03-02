@@ -1,0 +1,2 @@
+SFS-5686, SFS-5474
+Delete field Account.TB_Organisation_Range__c and Account.TB_Regulations_File__c

@@ -1,0 +1,23 @@
+Find "Custom Settings" in Setup.
+Find the "SWPS Document Template Account Ids" and click "Manage" next to it.
+Click New
+Enter "97" under SS Account
+-------------------------------------------------------------------------------
+Go to the Account List View
+Find the SWPS Account with VDO ID = "97" and click it
+Go to the Related tab and find the "Files" related list
+Click "Add Files" and "Upload Files"
+Upload the two HTML files found in a comment from "Adam Pęczkowski" under [SFS-6259], URL: https://swps.atlassian.net/browse/SFS-6259?focusedCommentId=29573
+Click View All, then perform the below action for both files:
+    Click the arrow pointing down on the right side of the list item and on "View File Details"
+    Go to the Details tab and edit the "TB Category" field
+    Select "PDF_Template" and click "Save"
+    Click the "Share" button in the right section on the header
+    Click "Who Can Access"
+    Enable Customer Access next to the SWPS Account name
+    Click "Done"
+
+ ___ _   _  ___ ___ ___  ___ ___
+/ __| | | |/ __/ __/ _ \/ __/ __|
+\__ \ |_| | (_| (_|  __/\__ \__ \
+|___/\__,_|\___\___\___||___/___/
