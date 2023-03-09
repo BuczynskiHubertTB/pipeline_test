@@ -3,8 +3,6 @@
     <types>
         <members>Test__c</members>
         <members>Test_2__c</members>
-        <members>Test_3__c</members>
-        <members>Account_666</members>
         <name>CustomObject</name>
     </types>
     <version>56.0</version>
